@@ -1,6 +1,6 @@
 ## Hi there 👋
 ## I want to learn more about coding, and this platform can help me to do so :)
-# I am currently a second year student in the CIS program in Okanagan College. #
+
 
 <!--
 **TrainerBlu3/TrainerBlu3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
