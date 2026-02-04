@@ -49,12 +49,6 @@ I'm a graduating Computer Information Systems student at Okanagan College (April
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/matthew-tindogan-0a1441286)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:gianmatthewtindogan@gmail.com)
 
-### GitHub Stats
-
-![Matthew's GitHub stats](https://github-readme-stats.vercel.app/api?username=TrainerBlu3&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TrainerBlu3&layout=compact&theme=tokyonight&hide_border=true)
-
 ---
 
 *"It is what it is." – Gian Matthew Tindogan (sometime in 2024)*
