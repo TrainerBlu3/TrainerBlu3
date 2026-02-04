@@ -48,7 +48,7 @@ I'm a graduating Computer Information Systems student at Okanagan College (April
 
 ### GitHub Stats
 
-![Matthew's GitHub stats](https://github-readme-stats.vercel.app/api?username=TrainerBlu3&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Matthew's GitHub stats](https://github-readme-stats.vercel.app/api?username=TrainerBlu3&show_icons=true&theme=tokyonight&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TrainerBlu3&layout=compact&theme=tokyonight&hide_border=true)
 
