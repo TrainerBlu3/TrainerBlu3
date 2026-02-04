@@ -22,7 +22,10 @@ I'm a graduating Computer Information Systems student at Okanagan College (April
 
 ### What I'm Working On / Worked On
 
-- **E-Commerce Platform**: Full-stack web app with PHP, MySQL, and jQuery featuring user authentication, shopping cart, and admin dashboard
+- **[E-Commerce Platform](https://github.com/adamhb710/cosc213-finalproject)** (Team Project): 
+  Full-stack LAMP application built with 2 teammates featuring user authentication, admin dashboard with CRUD operations, 
+  shopping cart functionality, and responsive design. Contributions included database design, authentication system, 
+  admin panel development, and frontend styling.
 - **Database Projects**: Complex Oracle SQL & PL/SQL implementations with triggers, normalization, and transaction management
 - **Algorithm Implementations**: Graph traversals (BFS/DFS), Union-Find data structures, and recursive problem-solving in Java
 - **Systems Programming**: C programs utilizing UNIX system calls for system information gathering and process management
