@@ -2,7 +2,7 @@
 
 ## Full-Stack Developer | CIS Graduate
 
-I'm a Computer Information Systems graduate from Okanagan College (April 2026) with hands-on experience building full-stack applications and browser automation tools used in real professional workflows. Graduated with an 88% average.
+I'm a Computer Information Systems graduate from Okanagan College (April 2026) with hands-on experience building full-stack applications and browser automation tools used in real professional workflows. Graduated with an 89% average.
 
 ---
 
